@@ -10,3 +10,7 @@ You can download/copy code above its free to use :)
 
 The application id goes in the .env file and
 The name of bot is the title for the status!
+
+
+
+ANY ERRORS please dm SilverAnimez_3#6333
