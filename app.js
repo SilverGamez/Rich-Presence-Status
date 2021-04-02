@@ -5,8 +5,8 @@ require('dotenv').config();
     client.on('ready', async () => {
         await client.setActivity({
             buttons: [
-                { label: "Button 1", url: "BUTTON 1 URL"},
-                { label: "Button 2", url: 'BUTTON 2 URL'}
+                { label: "Button 1", url: "BUTTON 1 URL"}, // Please put a valid url here or it will cause lots of errors
+                { label: "Button 2", url: 'BUTTON 2 URL'} // Please put a valid url here or it will cause lots of errors
             ],
             details: "PUT YOUR DESCRIPTION HERE"
         }).catch(err => console.log(err));
